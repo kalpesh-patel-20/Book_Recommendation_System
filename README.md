@@ -18,3 +18,10 @@ The collaborative filtering recommendation algorithm suggests books based on the
 - Allows users to input their preferences and receive tailored recommendations.
 - Supports two main recommendation algorithms: popularity-based and collaborative filtering.
 - Easy-to-use interface for users to interact with the system.
+
+## Technologies Used
+
+- **Python:** Backend development and machine learning implementation.
+- **Flask:** Web framework for building the user interface.
+- **Machine Learning:** Algorithms for  recommending books.
+- **HTML/CSS:** Frontend development for the user interface.
